@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+
+.itemmap {
+  display: flex;
+  justify-content: center;
+}
+
+.area {
+  height: 350px;
+  width: 20%;
+  display: inline-block;
+}
+
+.map {
+  width: 77%;
+  display: inline-block;
+  margin-left: 3%;
+}
+
+.rank {
+  width: 100%;
+  display: inline-flex;
+}
+
+ul {
+  width: 80px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 1px;
+  height: 75px;
+}
